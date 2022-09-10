@@ -4,6 +4,7 @@ author:      "NWW"
 title:       "OS222: Operating Systems 2022-2"
 repourl:     "https://github.com/naufalweise/os222"
 pageurl:     "https://naufalweise.github.io/os222"
+baseurl:     ""
 myloglink:   "/TXT/mylog.txt"
 encoding:    UTF-8
 markdown:    kramdown
