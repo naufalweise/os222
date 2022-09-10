@@ -1,5 +1,4 @@
-# {{ site.title }}
-
-[My GitHub Page]({{ site.pageurl }}) <br>
+# {{site.title}}
+[My GitHub Repo]({{ site.repourl }}) <br>
 [My Log](TXT/mylog.txt) <br>
-[My Links]({{ site.baseurl }}/LINKS)
+[My Links]({{ site.pageurl }}/LINKS)
