@@ -16,3 +16,4 @@ ZCZC W01 60 L62 Reinstall Debian Guest (I had done some step wrong)
 ZCZC W01 60 L64 Helping Friend
 ZCZC W01 10 L26 Try decrypt tarball
 ZCZC W01 10 L41 updating my log
+ZCZC W01 30 L09 Writing links.md
