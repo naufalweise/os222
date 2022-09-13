@@ -1,5 +1,5 @@
-[My GitHub Repo]({{ site.repourl }}) <br>
-[My Log](TXT/mylog.txt) <br>
-[My Links]({{ site.baseurl }}/LINKS/)
+# OS222
+This is repo for Operating System term 3 course.
 
-Author: {{ site.author }}
+## Running Jekyll Site locally
+`bundle exec jekyll serve --host 0.0.0.0`
