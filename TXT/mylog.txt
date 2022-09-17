@@ -18,3 +18,15 @@ ZCZC W01 10 L26 Try decrypt tarball
 ZCZC W01 10 L41 updating my log
 ZCZC W01 30 L09 Writing links.md
 ZCZC W01 30 L10 Github pages related
+ZCZC W01 30 L10 setting up jekyll locally
+ZCZC W02 100 L02 Zoom
+ZCZC W02 100 L02 Zoom
+ZCZC W02 60 L10 Fixing github page
+ZCZC W02 60 L64 Helping friend
+ZCZC W02 60 L09 Reading assignment
+ZCZC W02 60 L09 Reading assignment
+ZCZC W02 60 L09 Reading assignment
+ZCZC W02 60 L09 Reading assignment
+ZCZC W02 60 L09 weekly assignment
+ZCZC W02 60 L09 weekly assignment
+ZCZC W02 10 L05 quiz
