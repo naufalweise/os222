@@ -26,7 +26,7 @@ Usually, you have to enter user and password to connect to your virtual machine.
 ## Github Page
 
 1. [Running Github Page Locally](https://pengyizhang.github.io/2020/03/18/jekyll/)<br>
-This is a tutorial for running your github page locally on your machine. When editing your .md files, you might want to see how it look like before deploying it. The solution is to run your GHP locally. That way, you can fix any coding mistake easily.
+This is a tutorial for running your github page locally on your machine. When editing your .md files, you might want to see how it look like before deploying it. Or, you want to see the web page as you code your markdown. The solution is to run your GHP locally with jekyll server. That way, you can easily develop your github page.
 
 2. [Adding links to your github page](https://mademistakes.com/mastering-jekyll/site-url-baseurl/)<br>
 This article will help you setting up link in your github page. I like this article because it explains how you can use config file to define links used throughout your site. It also tells the do's and the dont's when adding a link to your github page.
@@ -38,3 +38,7 @@ This 3 minutes video explains what and how digital signatures work. I like this 
 ## C Programing Language
 1. [Codecademy Learn C](https://www.codecademy.com/learn/learn-c)<br>
 Codecademy is a popular site for learning programming language. This interactive course will teach you fundamental concepts of programming in C. You can learn some basic stuff like variables, arrays & strings, or you can just jump in to something more advance like pointers, memory, and stuctures.
+
+## File System
+1. [Intro to Linux File System](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
+An introduction about File System. This article explains definitons and basic functions of linux file system. This article also provide some informations about directory structure and filesystem types. I like this article because it's explains filesystem at high level so it's easier to understand if you just starting to learn linux.
