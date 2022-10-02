@@ -1,8 +1,7 @@
 ---
 permalink: /LINKS/
+title: Links
 ---
-
-# LINKS
 
 ## Linux
 
@@ -39,6 +38,13 @@ This 3 minutes video explains what and how digital signatures work. I like this 
 1. [Codecademy Learn C](https://www.codecademy.com/learn/learn-c)<br>
 Codecademy is a popular site for learning programming language. This interactive course will teach you fundamental concepts of programming in C. You can learn some basic stuff like variables, arrays & strings, or you can just jump in to something more advance like pointers, memory, and stuctures.
 
+2. [Relationship between arrays & pointers](https://www.programiz.com/c-programming/c-pointers-arrays)<br>
+This article tells you the similiarities and the difference between arrays and pointers. It shows that in some cases, array can behave like pointers. This article provide a concept that helps me answer some past OS midterm exam questions.
+
 ## File System
 1. [Intro to Linux File System](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
 An introduction about File System. This article explains definitons and basic functions of linux file system. This article also provide some informations about directory structure and filesystem types. I like this article because it's explains filesystem at high level so it's easier to understand if you just starting to learn linux.
+
+## Memory
+1. [Memory Paging](https://www.guru99.com/paging-in-operating-system.html)<br>
+This article explains what is paging, how it works, and pros and cons. This concise, easy to understand article also compares paging to other memory management scheme.

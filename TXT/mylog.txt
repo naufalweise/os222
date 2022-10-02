@@ -40,3 +40,10 @@ ZCZC W03 60 L09 Weekly assignment
 ZCZC W03 30 L64 Helping Friend
 ZCZC W03 180 L09 Reading Os Book
 ZCZC W03  5 L05 Quiz
+ZCZC W04 100 L02 Zoom
+ZCZC W04 100 L02 Zoom
+ZCZC W04 180 L09 Weekly Assignment
+ZCZC W04 120 L06 Read Books
+ZCZC W04 170 L06 Read Books
+ZCZC W04 180 L04 Github page
+ZCZC W04 30 L05 Quiz
