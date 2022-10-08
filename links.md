@@ -48,3 +48,7 @@ An introduction about File System. This article explains definitons and basic fu
 ## Memory
 1. [Memory Paging](https://www.guru99.com/paging-in-operating-system.html)<br>
 This article explains what is paging, how it works, and pros and cons. This concise, easy to understand article also compares paging to other memory management scheme.
+
+## Virtual Memory
+1. [Basic of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0)<br>
+This video of MIT Open Course explains about virtual memory including demand paging, page map, and an example of virtual to physical translation. It uses graphic diagrams to make learning easier.

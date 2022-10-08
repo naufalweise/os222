@@ -47,3 +47,13 @@ ZCZC W04 120 L06 Read Books
 ZCZC W04 170 L06 Read Books
 ZCZC W04 180 L04 Github page
 ZCZC W04 30 L05 Quiz
+ZCZC W05 100 L02 Zoom
+ZCZC W05 120 L00 Offline Class
+ZCZC W05 30 L05 Quiz 2
+ZCZC W05 30 L05 Quiz 1
+ZCZC W05 300 L06 Reading books
+ZCZC W05 30 L01 Backup VM
+ZCZC W05 180 L09 Weekly Assignment
+ZCZC W05 5 L41 Writing log
+ZCZC W05 10 L43 Writing my rank
+ZCZC W05 10 L04 Writing link
