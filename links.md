@@ -52,3 +52,10 @@ This article explains what is paging, how it works, and pros and cons. This conc
 ## Virtual Memory
 1. [Basic of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0)<br>
 This video of MIT Open Course explains about virtual memory including demand paging, page map, and an example of virtual to physical translation. It uses graphic diagrams to make learning easier.
+
+## Process & Thread
+1. [Process vs Threads in Linux](https://linuxhint.com/process-vs-thread-linux/)<br>
+This article explains the difference between a process and a thread in linux. It is written in simple language. This article also provide a table of difference of process and thread, so it's easier to remember.
+
+2. [Processes and Threads in Windows](https://learn.microsoft.com/en-us/windows/win32/procthread/processes-and-threads)<br>
+This article from Microsoft explains the concept of process, thread, job, and user-mode scheduling in Windows operating system. I included this article for comparison between windows and linux.

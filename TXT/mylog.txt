@@ -57,3 +57,10 @@ ZCZC W05 180 L09 Weekly Assignment
 ZCZC W05 5 L41 Writing log
 ZCZC W05 10 L43 Writing my rank
 ZCZC W05 10 L04 Writing link
+ZCZC W06 100 L02 Zoom
+ZCZC W06 180 L06 Read books
+ZCZC W06 120 L07 Try Demo
+ZCZC W06 90 L09 Assignment
+ZCZC W06 30 L04 Github pages related
+ZCZC W06 10 L05 Quizzes
+ZCZC W06 15 L61 Backup Virtual Box
