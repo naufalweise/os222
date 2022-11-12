@@ -59,3 +59,10 @@ This article explains the difference between a process and a thread in linux. It
 
 2. [Processes and Threads in Windows](https://learn.microsoft.com/en-us/windows/win32/procthread/processes-and-threads)<br>
 This article from Microsoft explains the concept of process, thread, job, and user-mode scheduling in Windows operating system. I included this article for comparison between windows and linux.
+
+## Synchronization
+1. [Monitor vs Semaphore](https://www.geeksforgeeks.org/monitor-vs-semaphore/)<br>
+This article explains the difference between two synchronizations tools, namely monitor and semaphore. This article can help you understand about the definitions, the difference, the pros, and the cons of using monitor and semaphore.
+
+2. [Race conditions and Deadlocks](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/visual-basic/language-compilers/race-conditions-deadlocks)<br>
+This article tells what, when, and how race condition and deadlock occur. This article packs examples of both condition with detailed explanations.
