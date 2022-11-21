@@ -66,3 +66,10 @@ This article explains the difference between two synchronizations tools, namely 
 
 2. [Race conditions and Deadlocks](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/visual-basic/language-compilers/race-conditions-deadlocks)<br>
 This article tells what, when, and how race condition and deadlock occur. This article packs examples of both condition with detailed explanations.
+
+## Scheduling
+1. [Scheduler vs Dispatcher](https://www.javatpoint.com/scheduler-vs-dispatcher)<br>
+This article explains the difference between a scheduler and a dispatcher.  This article compares the definitions, responsibilities, tasks, and types of schedulers and dispatchers.
+
+2. [Process affinity](https://www.javatpoint.com/what-is-processor-affinity)<br>
+This article explains process affinity, its use case, and its variations. I like this article because it explains the concepts clearly and detailed.

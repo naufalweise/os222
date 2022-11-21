@@ -71,3 +71,10 @@ ZCZC W07 180 L09 Weekly Assignments
 ZCZC W07 60 L07 Try Demo
 ZCZC W07 60 L05 Quiz & Learn
 ZCZC W07 20 L61 Backup Virtual Box
+ZCZC W08 100 L02 Zoom
+ZCZC W08 60 L09 Assignment
+ZCZC W08 60 L00 Watching os lectures
+ZCZC W08 60 L06 Read books
+ZCZC W08 30 L05 quiz
+ZCZC W08 270 L09 Assignment
+ZCZC W08 60 L06 GSGS
