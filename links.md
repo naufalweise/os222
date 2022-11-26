@@ -73,3 +73,10 @@ This article explains the difference between a scheduler and a dispatcher.  This
 
 2. [Process affinity](https://www.javatpoint.com/what-is-processor-affinity)<br>
 This article explains process affinity, its use case, and its variations. I like this article because it explains the concepts clearly and detailed.
+
+## Mass Storage Structure
+1. [NAS vs SAN](https://hypertecdirect.com/knowledge-base/nas-vs-san/)<br>
+This article explains the difference between Network Attached Storage (NAS) and Storage Area Network (SAN). This article includes the benefits and limitations of these technologies. This article also includes a comparison table that shows the difference between these technologies.
+
+2. [RAID types](https://www.raid-calculator.com/raid-types-reference.aspx)<br>
+This article shows different types of Redundant Array of Independent Disks (RAID) configurations. It provides a graph explaining how the data is distributed in each type of RAID. It also has a comparison table listing the difference between each type on the minimum number of disks, read speed, write speed, fault tolerance, etc.

@@ -78,3 +78,9 @@ ZCZC W08 60 L06 Read books
 ZCZC W08 30 L05 quiz
 ZCZC W08 270 L09 Assignment
 ZCZC W08 60 L06 GSGS
+ZCZC W09 100 L02 Zoom
+ZCZC W09 100 L00 Offline Class
+ZCZC W09 150 L09 Assignment
+ZCZC W09 60 L06 Read os books
+ZCZC W09 60 L64 Helping a friend
+ZCZC W09 30 L05 Quiz
